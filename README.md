@@ -70,7 +70,7 @@ This app uses **OpenAI API** and **Serper API** for search functionality. Ensure
 
 ---
 
-### Author: [Your Name]
-GitHub: [Your GitHub Username](https://github.com/yourusername)
+### Author: [Bhuvanachandra Manchala]
+GitHub: https://github.com/bhuvve/
 ```
 
