@@ -61,30 +61,12 @@ Ensure you have the following installed:
 3. Click **"Get Diagnosis and Treatment Plan"**.
 4. View AI-generated results and download the **DOCX report**.
 
-## File Structure
-```
-medical-diagnosis-ai/
-│── app.py                # Main Streamlit application
-│── requirements.txt      # List of dependencies
-│── .env                  # API keys (not to be committed)
-│── README.md             # Documentation
-│── utils/                # Additional utility functions
-└── models/               # AI model configurations
+
 ```
 
 ## API Keys
 This app uses **OpenAI API** and **Serper API** for search functionality. Ensure you have valid API keys added to your `.env` file.
 
-## Contributing
-We welcome contributions! To contribute:
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -m 'Add new feature'`
-4. Push the changes: `git push origin feature-name`
-5. Open a Pull Request.
-
-## License
-This project is licensed under the **MIT License**.
 
 ---
 
